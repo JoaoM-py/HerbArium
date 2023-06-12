@@ -16,7 +16,7 @@ export const styles = StyleSheet.create({
     },
     title: {
         fontSize: 17,
-        color: colors.heading,
+        color: colors.white,
         fontFamily: fonts.heading,
         lineHeight: 20,
         marginTop: 15
@@ -25,7 +25,7 @@ export const styles = StyleSheet.create({
         fontFamily: fonts.text,
         fontSize: 17,
         lineHeight: 20,
-        color: colors.heading,
+        color: colors.white,
     },
     enviromentList: {
         height: 40,

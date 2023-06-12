@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
         marginLeft: 10,
         fontFamily: fonts.heading,
         fontSize: 17,
-        color: colors.heading
+        color: colors.white
     },
     details: {
         alignItems: 'flex-end', 
@@ -33,7 +33,7 @@ export const styles = StyleSheet.create({
         marginTop: 5,
         fontSize: 16,
         fontFamily: fonts.heading,
-        color: colors.body_dark,
+        color: colors.white,
     },
     buttonRemove: {
         width: 100,

@@ -18,7 +18,7 @@ export const styles = StyleSheet.create({
         backgroundColor: colors.green_light
     },
     text: {
-        color: colors.heading,
+        color: colors.white,
         fontFamily: fonts.text
     },
     textActive: {

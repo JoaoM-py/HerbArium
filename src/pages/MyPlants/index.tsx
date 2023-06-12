@@ -73,7 +73,6 @@ export function MyPlants() {
 
     return (
         <View style={styles.container}>
-            <Header/>
 
             <View style={styles.spotlight}>
                 <Image 

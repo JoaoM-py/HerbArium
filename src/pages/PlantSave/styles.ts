@@ -33,13 +33,13 @@ export const styles = StyleSheet.create({
     plantName: {
         fontFamily: fonts.heading,
         fontSize: 24,
-        color: colors.heading,
+        color: colors.white,
         marginTop: 15,
     },
     plantAbout: {
         textAlign: 'center',
         fontFamily: fonts.text,
-        color: colors.heading,
+        color: colors.white,
         fontSize: 17,
         marginTop: 10
     },

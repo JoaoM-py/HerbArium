@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
         maxWidth: '45%',
         backgroundColor: colors.shape,
         borderRadius: 20,
-        paddingVertical: 10,
+        paddingVertical: 20,
         alignItems: 'center',
         margin: 10
     },

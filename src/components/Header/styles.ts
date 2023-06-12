@@ -23,13 +23,23 @@ export const styles = StyleSheet.create({
     },
     greeting: {
         fontSize: 32,
-        color: colors.heading,
+        color: colors.white,
         fontFamily: fonts.text
     },
     userName: {
         fontSize: 32,
         fontFamily: fonts.heading,
-        color: colors.heading,
+        color: colors.white,
         lineHeight: 40
+    },
+    button:{
+        justifyContent:'center',
+        alignItems:'center',
+        backgroundColor:'#00000',
+        borderRadius:12,
+        margin:20,
+        height:50,
+        flexDirection:'row'
+        
     }
 });

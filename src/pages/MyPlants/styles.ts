@@ -42,7 +42,7 @@ export const styles = StyleSheet.create({
     plantsTitle: {
         fontSize: 24,
         fontFamily: fonts.heading,
-        color: colors.heading,
+        color: colors.white,
         marginVertical: 20
     }
 });
